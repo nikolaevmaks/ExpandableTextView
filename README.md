@@ -1,7 +1,7 @@
 # ExpandableTextView
 
 Expandable text view with Yet text feature (when it is collapsed).
-Text have 5 line count in collapsed state (customizable).
+Text has 5 lines count in collapsed state (customizable).
 
 ###How to use
 
